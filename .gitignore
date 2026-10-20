@@ -1,10 +1,11 @@
 # Python-generated files
 __pycache__/
+game_state.jsonl
 *.py[oc]
 build/
 dist/
 wheels/
 *.egg-info
-game_state.json1
+
 # Virtual environments
 .venv
